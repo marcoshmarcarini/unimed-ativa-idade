@@ -12,7 +12,7 @@
     overflow: hidden;
 }
 
-.container img{
+.container svg{
     width: 272px;
     height: 100px;
     animation: aparecer 5s ease-in-out;
